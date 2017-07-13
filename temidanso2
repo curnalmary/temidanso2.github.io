@@ -159,7 +159,7 @@ transform: rotate(40deg);
 width: 350px;
 	height: 230px;
 	
-background-image:  url("FASH.JPG");
+background-image:  url("fash.jpg");
 
 background-color:white; 
 border: 0px solid black;
